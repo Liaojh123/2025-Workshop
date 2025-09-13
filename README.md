@@ -8,8 +8,8 @@ This repository provides a practical guide to using Machine Learning Interatomic
 
 Explore these interactive Colab notebooks to learn MLIPs through practical examples:
 
-| Case Study | Description | Notebook |
-|------------|-------------|----------|
+| Case Study |  Notebook |
+|------------|----------|
 | **Case 1: Structure Optimization** |[](https://colab.research.google.com/drive/1gp1ZIG_t05sY2iBbss75gB1pWtGcf21V?usp=sharing) |
 | **Case 2: Molecular Dynamics** |[](https://colab.research.google.com/drive/1B_y9wt-MD2ZC-aPwKwRl-Hsq89o3cIaX?usp=sharing) |
 | **Case 3: Finetuning pretrained model** |[](https://colab.research.google.com/drive/1xgFtZ932eJ8C50CksSPjadhHdEklcrMT?usp=sharing) |
