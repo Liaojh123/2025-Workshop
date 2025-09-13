@@ -8,12 +8,12 @@ This repository provides a practical guide to using Machine Learning Interatomic
 
 Explore these interactive Colab notebooks to learn MLIPs through practical examples:
 
-| Case Study |  Notebook |
+| Case Study | Notebook |
 |------------|----------|
-| **Case 1: Structure Optimization** |[](https://colab.research.google.com/drive/1gp1ZIG_t05sY2iBbss75gB1pWtGcf21V?usp=sharing) |
-| **Case 2: Molecular Dynamics** |[](https://colab.research.google.com/drive/1B_y9wt-MD2ZC-aPwKwRl-Hsq89o3cIaX?usp=sharing) |
-| **Case 3: Finetuning pretrained model** |[](https://colab.research.google.com/drive/1xgFtZ932eJ8C50CksSPjadhHdEklcrMT?usp=sharing) |
-| **Case 4: Finetuning result**  |[](https://colab.research.google.com/drive/1TIcba364wA4fMJGuhaH-8BaemPNr0PRJ?usp=sharing) |
+| **Case 1: Structure Optimization** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gp1ZIG_t05sY2iBbss75gB1pWtGcf21V?usp=sharing) |
+| **Case 2: Molecular Dynamics** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B_y9wt-MD2ZC-aPwKwRl-Hsq89o3cIaX?usp=sharing) |
+| **Case 3: Fine-tuning Pretrained Model** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xgFtZ932eJ8C50CksSPjadhHdEklcrMT?usp=sharing) |
+| **Case 4: Fine-tuning Results** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TIcba364wA4fMJGuhaH-8BaemPNr0PRJ?usp=sharing) |
 
 ## 📊 Comprehensive Presentation
 
@@ -41,15 +41,12 @@ For local installation:
 - [pymatgen](https://pymatgen.org/)
 
 ## 🌐 Resources & References
-- [CHGNet Paper](https://www.nature.com/articles/s41524-023-01098-1)
+- [CHGNet Paper](https://www.nature.com/articles/s42256-023-00716-3)
 - [Materials Project](https://materialsproject.org/)
 
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-[Project Website] - [https://your-project-website.com]
-
 ---
 
 **Explore the future of materials simulation with machine learning interatomic potentials!**
